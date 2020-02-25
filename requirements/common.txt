@@ -1,4 +1,4 @@
-Flask==0.12
+Flask==1.0.0
 Flask-Bootstrap==3.3.7.1
 Flask-HTTPAuth==3.2.2
 Flask-Login==0.4.0
@@ -14,11 +14,11 @@ Mako==1.0.6
 Markdown==2.6.8
 MarkupSafe==1.0
 psycopg2==2.7
-SQLAlchemy==1.1.6
+SQLAlchemy>=1.3.0
 WTForms==2.1
-Werkzeug==0.11.15
+Werkzeug>=0.15.3
 alembic==0.9.1
-bleach==2.0.0
+bleach>=3.1.1
 blinker==1.4
 html5lib==1.0b10
 itsdangerous==0.24
