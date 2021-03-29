@@ -1,6 +1,6 @@
 -r common.txt
 ForgeryPy==0.1
-Pygments==2.2.0
+Pygments==2.7.4
 colorama==0.3.7
 coverage==4.3.4
 httpie>=1.0.3
